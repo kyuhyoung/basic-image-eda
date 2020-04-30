@@ -6,6 +6,7 @@ A simple eda tool to check basic information of images under a directory(images 
 \- All images are converted to 3-channel(rgb) images. When images that have various channels are mixed, results can be misleading.  
 \- uint8 and uint16 data types are supported. If different data types are mixed, error occurs.
 
+
 ### Installation
 ```bash
 pip install basic-image-eda
